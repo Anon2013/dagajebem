@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 29
+  controlID: 51
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -466,9 +466,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b4270000
-    m_LastClickedID: 10164
-    m_ExpandedIDs: 86fbffff00000000d0270000
+    m_SelectedIDs: 3c060000
+    m_LastClickedID: 0
+    m_ExpandedIDs: 98fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -552,7 +552,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.5254272, y: -0.14717115, z: 0.09284701, w: -0.8328544}
     speed: 2
-    m_Value: {x: -0.5254272, y: -0.14717115, z: 0.09284701, w: -0.8328544}
+    m_Value: {x: -0.52542716, y: -0.14717114, z: 0.092847005, w: -0.8328544}
   m_Size:
     m_Target: 52.978172
     speed: 2
@@ -607,19 +607,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/models/Materials
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/models/Materials
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: G:\GitHub\dagajebem\New Unity Project (2)
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8a270000
-    m_LastClickedID: 10122
-    m_ExpandedIDs: 000000003e270000842700002c2800002e2800003028000000ca9a3bffffff7f
+    m_SelectedIDs: 44270000
+    m_LastClickedID: 10052
+    m_ExpandedIDs: 00000000442700008a27000032280000342800003628000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -647,7 +647,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 3afbffff
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003e270000842700002c2800002e28000030280000
+    m_ExpandedIDs: 00000000442700008a270000322800003428000036280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
