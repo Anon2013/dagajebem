@@ -6,7 +6,7 @@ public class gravity : MonoBehaviour
 {
 
     public GameObject target;
-    public float strengthOfAttraction = 5.0f;
+    public float strengthOfGravity = 2.0f;
 
     // Use this for initialization
     void Start()
